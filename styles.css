@@ -1,0 +1,99 @@
+body{
+    background-color: gainsboro;
+    margin: 0;
+}
+
+.cintillo{
+    justify-content: center;
+    display: flex;
+    background-color: white;
+}
+
+.instafeed{
+    position: absolute;
+    left: 505px;
+}
+
+.picture1{
+    width: 400px;
+    display: block;
+    background-color: white;
+    margin: 20px;
+}
+
+.headpic{
+    display: inline;
+    width: 100%;
+}
+
+.titlepic{
+    width: 350px;
+    float: left;
+    margin-left: 5px;
+}
+
+.countpic{
+    width: 40px;
+    float: right;
+    margin-right: 5px;
+}
+
+.actualpic{
+    width: 400px;
+    height: 400px;
+    display: flex;
+}
+
+.descriptionpic{
+    justify-content: center;
+    padding: 5px;
+}
+
+.picture2{
+    width: 400px;
+    display: block;
+    background-color: white;
+    margin: 20px;
+}
+
+.picture3{
+    width: 400px;
+    display: block;
+    background-color: white;
+    margin: 20px;
+}
+
+.picture4{
+    width: 400px;
+    display: block;
+    background-color: white;
+    margin: 20px;
+}
+
+.picture5{
+    width: 400px;
+    display: block;
+    background-color: white;
+    margin: 20px;
+}
+
+.picture6{
+    width: 400px;
+    display: block;
+    background-color: white;
+    margin: 20px;
+}
+
+.picture7{
+    width: 400px;
+    display: block;
+    background-color: white;
+    margin: 20px;
+}
+
+.actualpic7{
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+}
